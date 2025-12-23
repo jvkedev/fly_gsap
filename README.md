@@ -40,7 +40,7 @@ npm install
 
 ```
 
-### 5. Start Portfolio
+### 5. Start the App
 
 ```
 npm run dev
