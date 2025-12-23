@@ -1,16 +1,63 @@
-# React + Vite
+# Fly Animation Demo (GSAP)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based demo showcasing a fly animation using GSAP. Click on the fly image and it will move to a random position with rotation, demonstrating smooth, interactive animations. This project is designed to be simple, lightweight, and visually engaging.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  Interactive fly animation on click
+-  Randomized position and rotation
+-  Smooth and responsive motion using GSAP
+-  Lightweight and fast frontend
+-  Easy to understand and extend
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- GSAP
+- Vite
+  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/jvkedev/fly_gsap.git
+
+```
+
+### 2. Navigate to the Project Directory
+
+```
+cd GSAP_React
+
+```
+### 3. Install Frontend Dependencies
+
+```
+npm install
+
+```
+
+### 5. Start Portfolio
+
+```
+npm run dev
+
+```
+## Notes
+
+- This is a static frontend project.
+- No backend or authentication is included.
+- The purpose is to create a clean personal portfolio to share with employers and clients.
+
+---
+
+## License
+
+This project is for educational purposes only.
+
+## Author
+### JvkeDev
+
