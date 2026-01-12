@@ -30,7 +30,7 @@ git clone https://github.com/jvkedev/fly_gsap.git
 ### 2. Navigate to the Project Directory
 
 ```
-cd GSAP_React
+cd fly_gsap
 
 ```
 ### 3. Install Frontend Dependencies
